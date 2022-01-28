@@ -1,2 +1,2 @@
 # KL25_C_CODE
-This is a C code using MCUExpresso for controlling RGB LEDs
+Here you can find C projects for Kinect KL25
